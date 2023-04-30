@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Here is my [CV](http://Jingchao-Hu.github.io/files/JingchaoHu_cv.pdf).
+Here is my [CV](http://Jingchao-Hu.github.io/files/Jingchaohu_cv.pdf).
 
 <!--
 {% include base_path %}
