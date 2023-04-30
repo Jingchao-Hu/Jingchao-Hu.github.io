@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wanru Xiong"
-  avatar           : "xiongwanru.jpg"
-  bio              : "Assistant Professor, The Hong Kong University of Science and Technology (Guangzhou)"
-  location         : "Guangzhou, China"
+  name             : "Jingchao Hu"
+  avatar           : "证件照.jpg"
+  bio              : "Student, Hong Kong University of Science and Technology "
+  location         : "Hong Kong, China"
 #  employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=RsdHqWAAAAAJ&hl"
-  email            : "wanruxiong@ust.hk"
+  googlescholar    : "https://scholar.google.com"
+  email            : "jingchaohu1999@163.com"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#  github           : "academicpages"
+  github           : "Jingchao-Hu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-5707-0216"
+  orcid            : "http://orcid.org/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
